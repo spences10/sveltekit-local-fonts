@@ -11,6 +11,8 @@
   to generate the font files.
 </p>
 
+<br />
+
 <code class="font-victor-mono">
   Also added mono-space font for code blocks.
 </code>
