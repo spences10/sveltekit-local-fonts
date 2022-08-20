@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* victor-mono-regular */
+  @font-face {
+    font-family: 'Victor Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('fonts/victor-mono/regular.woff2') format('woff2'),
+      /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url('fonts/victor-mono/regular.woff') format('woff');
+  }
+  /* poppins-regular */
+  @font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('fonts/poppins/regular.woff2') format('woff2'),
+      /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url('fonts/poppins/regular.woff') format('woff');
+  }
+  /* poppins-700 */
+  @font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+      /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('fonts/poppins/700.woff2') format('woff2'),
+      /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        url('fonts/poppins/700.woff') format('woff');
+  }
+}
