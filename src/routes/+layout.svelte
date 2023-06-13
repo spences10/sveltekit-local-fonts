@@ -1,5 +1,7 @@
 <script>
-  import '../app.css'
+	import '../app.postcss'
 </script>
 
-<slot />
+<main class="prose prose-xl">
+	<slot />
+</main>
