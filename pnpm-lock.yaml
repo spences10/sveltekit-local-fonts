@@ -10,10 +10,10 @@ importers:
     devDependencies:
       '@fontsource/poppins':
         specifier: ^5.0.8
-        version: 5.0.13
+        version: 5.0.14
       '@fontsource/victor-mono':
         specifier: ^5.0.11
-        version: 5.0.12
+        version: 5.0.13
       '@playwright/test':
         specifier: ^1.41.2
         version: 1.43.1
@@ -257,11 +257,11 @@ packages:
     resolution: {integrity: sha512-5WoDz3Y19Bg2BnErkZTp0en+c/i9PvgFS7MBe1+m60HjFr0hrphlAGp4yzI7pxpt4xShln4ZyYp4neJm8hmOkQ==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@fontsource/poppins@5.0.13':
-    resolution: {integrity: sha512-8G9odFoxH43oZpvq43fpGucm8iHm6iatu0M1LIshb+tx3/y6YBXenVED7CI4resvPz6hyDu8a2vHSh9vrpe+wQ==}
+  '@fontsource/poppins@5.0.14':
+    resolution: {integrity: sha512-nmM1zpPo3Uh4JcGAVSQuWaZNYh2FbbwWhZ5t6hRaynmJaNTBW85d3nEh9zMmzI0HX7X5xqQVdRHeDatKpOGsnA==}
 
-  '@fontsource/victor-mono@5.0.12':
-    resolution: {integrity: sha512-pPIXOAdv028xI5HoxgsagRarsGOcUL7INg3+4sS0eiiZ99Mje46TEyAuoBCMhYpocjjTJuXqJFG98yqtJFCkkA==}
+  '@fontsource/victor-mono@5.0.13':
+    resolution: {integrity: sha512-WdKQC1+N5Ts+3CidQ3FsRFgJ7/c8gY5zCDxXhWZWwvH5AJJmbDGHVB8XWnHtDF5+Ca7yuzixB57oK8HkuTisug==}
 
   '@humanwhocodes/config-array@0.13.0':
     resolution: {integrity: sha512-DZLEEqFWQFiyK6h5YIeynKx7JlvCYWL0cImfSRXZ9l4Sg2efkFGTuFf6vzXjK1cq6IYkU+Eg/JizXw+TD2vRNw==}
@@ -1887,9 +1887,9 @@ snapshots:
 
   '@eslint/js@9.1.1': {}
 
-  '@fontsource/poppins@5.0.13': {}
+  '@fontsource/poppins@5.0.14': {}
 
-  '@fontsource/victor-mono@5.0.12': {}
+  '@fontsource/victor-mono@5.0.13': {}
 
   '@humanwhocodes/config-array@0.13.0':
     dependencies:
