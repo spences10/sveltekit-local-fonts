@@ -7,10 +7,10 @@ settings:
 devDependencies:
   '@fontsource/poppins':
     specifier: ^5.0.14
-    version: 5.0.14
+    version: 5.0.15
   '@fontsource/victor-mono':
     specifier: ^5.0.13
-    version: 5.0.13
+    version: 5.0.14
   '@playwright/test':
     specifier: ^1.44.1
     version: 1.45.3
@@ -359,12 +359,12 @@ packages:
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
     dev: true
 
-  /@fontsource/poppins@5.0.14:
-    resolution: {integrity: sha512-nmM1zpPo3Uh4JcGAVSQuWaZNYh2FbbwWhZ5t6hRaynmJaNTBW85d3nEh9zMmzI0HX7X5xqQVdRHeDatKpOGsnA==}
+  /@fontsource/poppins@5.0.15:
+    resolution: {integrity: sha512-hN8jhlb01v0f8F3X5h8XUiqz/dMYg/RrhyHmU1o4gZIgk+Yj2SeqmRLBj88Lh+pEjdVTmbDXSHGCVlbyPaSm8A==}
     dev: true
 
-  /@fontsource/victor-mono@5.0.13:
-    resolution: {integrity: sha512-WdKQC1+N5Ts+3CidQ3FsRFgJ7/c8gY5zCDxXhWZWwvH5AJJmbDGHVB8XWnHtDF5+Ca7yuzixB57oK8HkuTisug==}
+  /@fontsource/victor-mono@5.0.14:
+    resolution: {integrity: sha512-TMTBJTqGiHZoamjoGgAL/p2zR4G6eoTeMCmK4Guz4gzDRwyOSgBXXU3WgNyY3Zm7S+/kowVje9ziMDC8MavDRg==}
     dev: true
 
   /@humanwhocodes/module-importer@1.0.1:
