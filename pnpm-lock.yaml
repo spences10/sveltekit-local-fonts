@@ -16,13 +16,13 @@ importers:
         version: 9.33.0
       '@fontsource/manrope':
         specifier: ^5.2.5
-        version: 5.2.5
+        version: 5.2.6
       '@fontsource/poppins':
         specifier: ^5.2.5
-        version: 5.2.5
+        version: 5.2.6
       '@fontsource/victor-mono':
         specifier: ^5.2.5
-        version: 5.2.5
+        version: 5.2.6
       '@playwright/test':
         specifier: ^1.52.0
         version: 1.52.0
@@ -351,14 +351,14 @@ packages:
     resolution: {integrity: sha512-Z5kJ+wU3oA7MMIqVR9tyZRtjYPr4OC004Q4Rw7pgOKUOKkJfZ3O24nz3WYfGRpMDNmcOi3TwQOmgm7B7Tpii0w==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@fontsource/manrope@5.2.5':
-    resolution: {integrity: sha512-4mYUAhsuF8KoXseG8T9woWUc/foznUVluFtE6fCKAqe76WM3kmDNedaINWjzWB73+wly0duFvVpDBma3NXXT0g==}
+  '@fontsource/manrope@5.2.6':
+    resolution: {integrity: sha512-tboCPLGXWWkNORL7gRhA1m16FJj2QuObk2lhBvkNrpjW0911pGawvHwxuierKHojPtXptfMJo7CUWxXGkKN5zA==}
 
-  '@fontsource/poppins@5.2.5':
-    resolution: {integrity: sha512-1S3k45pZOz2jqGPPqKw0in3uxFwnB+d5jSU8Tp9YwH/dIJptE3jdkQbYN0QD861GtuOpn6QhPW/yKt1w7hVRBQ==}
+  '@fontsource/poppins@5.2.6':
+    resolution: {integrity: sha512-NFr0121+vWCfzLDVvSZOzwAjRUaNj6QHA9gtUh/KHHoWf1Qn23EkwVFs63XZ6UtF5K1b3UNmCx77YEMGgV7BOQ==}
 
-  '@fontsource/victor-mono@5.2.5':
-    resolution: {integrity: sha512-K/Mp21G5yZRtFwXto7hmJM2SVv3uWrgRst0l1NWLQJAD/Mz386b1EgEGt96oo7ZpBHXF/GD8KQwOk/ztv2j4qQ==}
+  '@fontsource/victor-mono@5.2.6':
+    resolution: {integrity: sha512-+R0K61MmVbsFInNmPrRgLKqnZdhkHgrnr5aiLww0rpaNlDReddJTjabKndYuBnLimyyBSQZd6ouPYCGIizsUeA==}
 
   '@humanfs/core@0.19.1':
     resolution: {integrity: sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA==}
@@ -2063,11 +2063,11 @@ snapshots:
       '@eslint/core': 0.15.2
       levn: 0.4.1
 
-  '@fontsource/manrope@5.2.5': {}
+  '@fontsource/manrope@5.2.6': {}
 
-  '@fontsource/poppins@5.2.5': {}
+  '@fontsource/poppins@5.2.6': {}
 
-  '@fontsource/victor-mono@5.2.5': {}
+  '@fontsource/victor-mono@5.2.6': {}
 
   '@humanfs/core@0.19.1': {}
 
